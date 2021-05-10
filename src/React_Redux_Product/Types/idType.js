@@ -1,0 +1,1 @@
+export const Product_id="Product_id";
